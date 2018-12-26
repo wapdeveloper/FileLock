@@ -1,0 +1,12 @@
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\bin\Release\FileLock.exe
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\bin\Release\FileLock.pdb
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\MainWindow.baml
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\MainWindow.g.cs
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\App.g.cs
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\FileLock_MarkupCompile.cache
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\FileLock.g.resources
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\FileLock.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\FileLock.csproj.GenerateResource.Cache
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\FileLock.exe
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\FileLock.pdb
+C:\Users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Release\FileLock.csprojResolveAssemblyReference.cache

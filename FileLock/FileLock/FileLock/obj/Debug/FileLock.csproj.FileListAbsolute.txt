@@ -1,0 +1,11 @@
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\bin\Debug\FileLock.exe
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\bin\Debug\FileLock.pdb
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\MainWindow.baml
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\MainWindow.g.cs
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\App.g.cs
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\FileLock_MarkupCompile.cache
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\FileLock.g.resources
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\FileLock.Properties.Resources.resources
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\FileLock.csproj.GenerateResource.Cache
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\FileLock.exe
+c:\users\harry\documents\visual studio 2013\Projects\FileLock\FileLock\obj\Debug\FileLock.pdb

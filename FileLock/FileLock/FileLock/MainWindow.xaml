@@ -1,0 +1,32 @@
+﻿<Window x:Class="FileLock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FileLock" Height="180" Width="580" WindowStartupLocation="Manual" Left="200"  Top="150" ResizeMode="NoResize" FontSize="14">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <TextBlock Width="110" Text="     select file：" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+            <TextBox Name="txtFileName" Width="400" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBox>
+            <Grid Width="5"></Grid>
+            <Button Name="opne" Width="25" Content="..." HorizontalAlignment="Center" VerticalAlignment="Center" Click="opne_Click"></Button>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Width="110" Text="     input key：" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+            <PasswordBox  Name="txtPassword" Width="200" HorizontalAlignment="Center" VerticalAlignment="Center"></PasswordBox>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" >
+            <Grid Width="20"></Grid>
+            <Button Name="About" Content="About" Width="70" HorizontalAlignment="Center" VerticalAlignment="Center" Click="About_Click"></Button>
+
+            <Grid Width="220"></Grid>
+            <Button Name="Encrypt" Content="Encrypt" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Encrypt_Click"></Button>
+            <Grid Width="30"></Grid>
+            <Button Name="Decrypt" Content="Decrypt" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Decrypt_Click"></Button>
+        </StackPanel>
+
+    </Grid>
+</Window>
